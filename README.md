@@ -1,4 +1,4 @@
-# AI Document Automation System
+# AI Document Automation System using N8N
 
 An AI-powered document processing workflow that automatically watches a Google Drive HOLD folder, extracts data from scanned PDFs using OCR and AI, renames files intelligently, organizes them into the correct folders, and sends confirmation email notifications.
 
